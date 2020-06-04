@@ -1,10 +1,9 @@
-# uui
+# tease-ui
+## 人生若只如初见，何事悲凉秋画扇
 
-## Project setup
 ```
 yarn install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
