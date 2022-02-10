@@ -15,7 +15,7 @@
   "dependencies": {
     "autoprefixer": "^9.8.0",
     "core-js": "^3.6.5",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss-base64": "^0.7.1",
     "postcss-scss": "^2.1.1",
     "rollup-plugin-progress": "^1.1.2",
